@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+node_modules
+dist
+lib
+es
+coverage
+.idea/**
+
+website/translated_docs
+website/build/
+website/node_modules
+website/i18n/*
